@@ -1,7 +1,7 @@
 <div>
 <a href="https://github.com/LeonardaSaad">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardaSaad&show_icons=true&theme=dark"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardaSaad&show_icons=true&theme=dark&langs_count=5&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardaSaad&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardaSaad&show_icons=true&theme=tokyonight&langs_count=5&layout=compact"/>
 </div>
 
 
@@ -20,11 +20,10 @@
    
 
 <div>
+<a href="https://www.linkedin.com/in/leonarda-saad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:saad.leonarda@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/leonarda_saad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
-<a href="https://www.twitch.tv/leosaad" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>	
+<a href="https://instagram.com/leonarda_saad/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Leonarda_Saad" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 	
-<a href="https://www.linkedin.com/in/leonarda-saad/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	
 </div>
    
 
@@ -39,7 +38,7 @@
 	<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 	<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 	<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-	  
+	<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </p>
   
 <h2 class="projetos"> <a>Projetos</a> </h2>
@@ -53,7 +52,7 @@
 	<p>O BotSAD é um bot criado para a rede social Discord, totalmente feito em JavaScript. Ele ainda está em desenvolvimento, mas já contem comandos de música, memes e          algumas ferramentes.</p>
 	<div>
 	<a href="https://github.com/LeonardaSaad/BotSAD">
-	<img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardaSaad&repo=BotSAD&show_icons=true&theme=dark"/>
+	<img height="105em" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardaSaad&repo=BotSAD&show_icons=true&theme=tokyonight"/>
 	</div>
 
   
