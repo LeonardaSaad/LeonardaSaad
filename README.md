@@ -16,7 +16,7 @@
 <h2 class="sobre">
     <a>Sobre</a>
 </h2>
-	 <p>Como eu já tinha falado, me chamo Leonarda, tenho 18 anos e sou desenvolvedora júnior. Estou nessa área já tem uns 2/3 anos. A linguagem que eu tenho mais afinidade é JavaScript e gosto muito dela. Além disso amo muito música, jogos e resolver um bug que eu estou presa tem dias 😂</p>
+	 <p>Sou estudante de Ciência da Computação com foco em Web Developer. Possuo conhecimentos em JavaScript e React. </p>
    
 
 <div>
